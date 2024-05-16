@@ -2,6 +2,7 @@
   "name": "mern_ecommerce",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "backend": "nodemon backend/index.js",
